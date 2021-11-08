@@ -1,0 +1,10 @@
+.navBarContainer{
+    width: auto;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+  }
+  .navBar{
+    width: auto;
+    height: 45px;
+    background-color: rgb(92, 145, 206);
+  }
