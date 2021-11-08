@@ -7,7 +7,9 @@ export default function App() {
   return (
     <>
       <NavBar />
-      <SideBar />
+      <div style={{ maxWidth: '1250px', margin: '0 auto' }}>
+        <SideBar />
+      </div>
     </>
   );
 }

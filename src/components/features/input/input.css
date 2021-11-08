@@ -2,3 +2,8 @@
   display: flex;
   justify-content: space-between;
 }
+
+.ant-select-dropdown,
+.ant-select-dropdown-empty {
+  display: none !important;
+}
